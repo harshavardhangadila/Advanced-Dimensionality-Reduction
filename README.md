@@ -30,5 +30,3 @@ Factor analysis is a statistical technique that models observed variables as lin
 10. Autoencoders:
 Autoencoders are neural networks designed for non-linear dimensionality reduction. Using PyTorch or TensorFlow, the demonstration should apply autoencoders to datasets like MNIST to show reconstruction and latent space representation, contrasting them with traditional techniques.
 
-
-Youtube: [Advanced-Dimensionality-Reduction](https://www.youtube.com/playlist?list=PL3wbQO71NfYhK58XvbcUYOFxWthi_fhcR)
